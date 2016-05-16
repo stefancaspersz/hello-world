@@ -1,6 +1,6 @@
 // 'Hello World!' program
 
-#include <iostream.h>
+#include <iostream>
 
 main()
 {
